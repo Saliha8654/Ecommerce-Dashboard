@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": "1s12",
+      "name": "Admin1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "c3be",
+      "name": "Saliha",
+      "email": "salihamahnoor121@gmail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": "ad9b",
+      "name": "Mahnoor",
+      "email": "mahnoor12@gmail.com",
+      "password": "mahnoor12",
+      "role": "user"
+    },
+    {
+      "id": "0ee6",
+      "name": "manahil",
+      "email": "manahil12@gmail.com",
+      "password": "123456",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "White Shoes",
+      "description": "Comfortable shoes",
+      "price": 4999,
+      "category": "men",
+      "image": "/src/assets/images/products/product-7.jpg"
+    },
+    {
+      "id": "2",
+      "name": "White Pants",
+      "description": "Comfortable pants",
+      "price": 2700,
+      "category": "women",
+      "image": "/src/assets/images/products/product-2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Cheetah Footwear",
+      "description": "Comfortable Footwear.",
+      "price": 5000,
+      "category": "accessories",
+      "image": "/src/assets/images/products/product-5.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Light-Pink Shirt",
+      "price": 3699,
+      "category": "women",
+      "image": "/src/assets/images/products/product-11.jpg",
+      "description": "T-shirt soft cotton fabric"
+    },
+    {
+      "id": "5",
+      "name": "Yellow Shirt",
+      "price": 4699,
+      "category": "women",
+      "image": "/src/assets/images/products/product-3.jpg",
+      "description": "Yellow colour cotton shirt."
+    },
+    {
+      "id": "6",
+      "name": "Pink Top",
+      "price": 4890,
+      "category": "women",
+      "image": "/src/assets/images/products/product-4.jpg",
+      "description": "Pink Summers Top."
+    },
+    {
+      "id": "7",
+      "name": "Skin Bag",
+      "price": 6500,
+      "category": "women",
+      "image": "/src/assets/images/products/product-10.jpg",
+      "description": "Skin small shoulder bag."
+    },
+    {
+      "id": "8",
+      "name": "Golden Sandals",
+      "price": 7000,
+      "category": "women",
+      "image": "/src/assets/images/products/product-12.jpg",
+      "description": "Golden high sandals."
+    }
+  ]
+}
